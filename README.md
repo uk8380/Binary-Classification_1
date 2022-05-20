@@ -1,3 +1,5 @@
+### EX NO:02
+### DATE: 04.04.2022
 # BINARY CLASSIFICATION
 ## AIM:
 To write a python program to perform binary classification.
@@ -17,11 +19,11 @@ Binary classification is a form of classification — the process of predicting 
 
 ## PROGRAM:
 ```
-/*
 Program to implement binary classification.
 Developed by: SHAIK KHADAR BASHA
 Register Number: 212220230045
-*/
+```
+```python
 from numpy import where
 from collections import Counter
 from sklearn.datasets import make_blobs
