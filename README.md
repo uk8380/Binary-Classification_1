@@ -40,8 +40,6 @@ for label,_ in counter.items():
 pyplot.legend()
 ```
 ## OUTPUT:
-
 ![NN(2)](https://user-images.githubusercontent.com/75235233/164288378-c6941dfc-5053-4539-8310-f62517bb018d.png)
-
 ## RESULT:
 Thus the python program performed binary classification successfully.
