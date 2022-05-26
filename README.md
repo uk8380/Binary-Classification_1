@@ -16,8 +16,8 @@ Binary classification is a form of classification — the process of predicting 
 ## PROGRAM:
 ```
 Program to implement binary classification.
-Developed by: SHAIK KHADAR BASHA
-Register Number: 212220230045
+Developed by: MANNEPALLI UDAY KUMAR
+Register Number: 212219040168
 ```
 ```python
 from numpy import where
